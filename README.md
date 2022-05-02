@@ -1,10 +1,10 @@
 
 
-### Hello everyone!, me chamo Antonio Francisco, é um prazer ✌️
+### Hello everyone!, My name is Antonio Francisco, it's a pleasure ✌️
 
 ![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=antfconeto&show_icons=true&theme=cobalt)
 
-### Minhas skills, linguagens, frameworks, dbs ext...
+### My skills, languages, frameworks, dbs ext...
 <br></br>
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,9 +21,9 @@
 
 <br></br>
 
-~Amo programar em meu tempo livre, aprendendo mais a cada dia, claro sem deixar o café de fora☕
+~I love to program in my spare time, learning more every day, of course without leaving out coffee.☕
 
-### Contatos...
+### Contact...
 EMAIL: antfcone@gmail.com<br/>
 Whatsapp: 99985391469<br/>
 Instagram: @antonio_fr00<br/>
