@@ -25,6 +25,6 @@
 
 ### Contact...
 EMAIL: antfcone@gmail.com<br/>
-Whatsapp: 99985391469<br/>
-Instagram: @antonio_fr00<br/>
+Whatsapp: 99985303178<br/>
+Instagram: @farofa_cosmica<br/>
 
