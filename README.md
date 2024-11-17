@@ -2,7 +2,9 @@
 
 ### Hello everyone!, My name is Antonio Francisco, it's a pleasure ✌️
 
-![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=antfconeto&show_icons=true&theme=cobalt)
+![antfconeto's Stats](https://github-readme-stats.vercel.app/api?username=antfconeto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![antfconeto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=antfconeto&theme=vue-dark&hide_border=true)
+![antfconeto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antfconeto&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### My skills, languages, frameworks, dbs ext...
 <br></br>
